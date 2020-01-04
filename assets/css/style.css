@@ -1,0 +1,12 @@
+.jumbotron {
+    background-color: #193089;
+    color: white;
+    font-weight: bold;
+}
+
+.display-4 {
+    font-weight: 400;
+}
+.card-header {
+    background-color: lightgray;
+}
